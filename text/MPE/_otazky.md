@@ -1,0 +1,16 @@
+---
+title: _otazky
+updated: 2026-05-26 11:16:43Z
+created: 2026-05-24 16:10:05Z
+latitude: 49.19506020
+longitude: 16.60683710
+altitude: 0.0000
+---
+
+1. Atomová stavba. Základní chemické vazby atomů. Látky krystalické, amorfní a reálně nekrystalické. Defekty v krystalických soustavách.
+2. Klasifikace vodivých materiálů pro elektrotechniku a elektroniku podle složení, struktury a vlastností. Elektrická vodivost materiálů. Základní vztahy. Vodivé materiály. Základní vlastnosti vybraných materiálů. Příklady materiálů pro kabelové vodiče, odpory, termočlánky a kontakty. Odporové materiály, požadavky na tyto materiály.
+3. Klasifikace polovodičových materiálů pro elektrotechniku a elektroniku podle složení, struktury a vlastností. Redukovaný vodivostní pásový model pevných látek. Konduktivita vlastního polovodiče. Polovodičové materiály. Elementární a sloučeninové polovodiče. Termodynamická rovnováha v vlastních polovodičích.
+4. Klasifikace polovodičových materiálů pro elektrotechniku a elektroniku podle složení, struktury a vlastností. Redukovaný vodivostní pásový model příměsových polovodičů. Konduktivita polovodiče typu N a P. Degenerovaný polovodič. Termodynamická rovnováha v příměsových polovodičích.
+5. Klasifikace dielektrických materiálů pro elektrotechniku a elektroniku podle složení, struktury a vlastností. Dielektrická polarizace a elektrická vodivost. Základní vztahy. Dielektrické materiály. Ztráty v dielektriku. Příklady organických a anorganické dielektrických materiálů.
+6. Klasifikace magnetických materiálů pro elektrotechniku a elektroniku podle složení, struktury a vlastností. Magnetické vlastnosti látek. Základní vztahy. Ztráty v magnetických materiálech. Materiály magneticky měkké a magneticky tvrdé – hysterezní smyčka.
+7. Materiály pro výrobu plošných spojů. Substrátové materiály. Plátovací materiály. Metody výroby plošných spojů. Příklady pájek.

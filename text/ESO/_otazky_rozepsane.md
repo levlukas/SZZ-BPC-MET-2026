@@ -1,0 +1,86 @@
+---
+title: _otazky_rozepsane
+updated: 2026-05-24 11:29:48Z
+created: 2026-05-23 18:10:17Z
+latitude: 49.19506020
+longitude: 16.60683710
+altitude: 0.0000
+---
+
+- 1\.
+	- Přechod PN
+	- Přechod PN v rovnovážném stavu, vyprázdněná oblast, difúzní napětí
+	- Bariérová a difúzní kapacita přechodu PN.
+	- Přechod PN v propustném a závěrném směru; pásové diagramy.
+	- Ampérvoltová charakteristika přechodu PN.
+	- Průrazy přechodu PN.
+	- Tunelová dioda.
+	- Jiné typy přechodů; přechod kov-polovodič.
+	- *zpracovane v (1) jako 2. otazka*
+- 2\.
+	- Polovodičová dioda.
+	- Ampérvoltová charakteristika diody.
+	- Dioda v propustném a závěrném směru.
+	- Dioda jako usměrňovač, zdroj referenčního napětí, spínač a řízený odpor.
+	- *zpracovane v (1) jako 3. otazka*
+- 3\.
+	- Polovodičová dioda.
+	- Varikap, varaktor.
+	- Schottkyho dioda.
+	- Fotodioda.
+	- Struktura PIN - fotodioda PIN, výkonová dioda PIN.
+	- Technologie výroby diod
+	- Typická zapojení obvodů s diodami.
+	- *zpracovane v (1) jako 4. otazka*
+- 4\.
+	- Bipolární tranzistor.
+	- Struktura bipolárního tranzistoru, princip činnosti.
+	- Ampérvoltové charakteristiky tranzistoru v zapojení se společným emitorem (SE).
+	- Normální a inverzní režim BT.
+	- Saturační a závěrný režim bipolárního tranzistoru.
+	- *zpracovane v (1) jako 5. otazka*
+- 5\.
+	- Bipolární tranzistor.
+	- První a druhý průraz tranzistorové struktury.
+	- Charakteristické závislosti parametrů tranzistorů na pracovních podmínkách.
+	- Nelineární modely bipolárního tranzistoru.
+	- Lineární modely bipolárního tranzistoru; h-parametry; y-parametry.
+	- *zpracovane v (1) jako 6. otazka*
+- 6\.
+	- Bipolární transistor.
+	- Základní obvody s tranzistory.
+	- Nastavení pracovního bodu.
+	- Princip tranzistorového zesilovače; zapojení SE, SB, SC; proudové a napěťové zesílení ; vstupní a výstupní odpor.
+	- Tranzistor jako spínač.
+	- *zpracovane v (1) jako 7. otazka*
+- 7\.
+	- Unipolární tranzistory.
+	- JFET, MESFET, MOSFET - struktura, princip činnosti.
+	- Lineární (aktivní) režim a saturační režim. Ampérvoltové charakteristiky.
+	- Unipolární tranzistor jako proudový zdroj, zesilovač, spínač a řízený odpor.
+	- Linearizované modely FET.
+	- *zpracovane v (1) jako 8. otazka*
+- 8\.
+	- Unipolární tranzistory.
+	- Výkonové tranzistory FET; struktury DMOS, VDMOS a VMOS.
+	- Paralelní integrace tranzistorů FET.
+	- Tranzistor IGBT - struktura, princip činnosti, náhradní obvod.
+	- Struktury CCD.
+	- *zpracovane v (1) jako 9. otazka*
+- 9\.
+	- Spínací prvky.
+	- Tyristor - základní struktura, princip činnosti, náhradní schéma.
+	- Tyristor v závěrném, blokovacím a propustném stavu, ampérvoltové charakteristiky tyristoru.
+	- Speciální druhy tyristorů, jejich použití.
+	- Triak; struktura a princip činnosti.
+	- Diak.
+	- *zpracovane v (1) jako 10. otazka*
+- 10\.
+	- Optoelektronické prvky.
+	- Fotometrické a radiometrické veličiny.
+	- Fotoodpor.
+	- Fototranzistor.
+	- Fotodioda.
+	- Luminiscenční dioda.
+	- Laserová dioda.
+	- *zpracovane v (1) jako 11. otazka*

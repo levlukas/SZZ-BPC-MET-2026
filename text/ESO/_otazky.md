@@ -1,0 +1,19 @@
+---
+title: _otazky
+updated: 2026-05-24 11:29:43Z
+created: 2026-05-19 06:47:30Z
+latitude: 49.19506020
+longitude: 16.60683710
+altitude: 0.0000
+---
+
+1. Přechod PN. Přechod PN v rovnovážném stavu, vyprázdněná oblast, difúzní napětí. Bariérová a difúzní kapacita přechodu PN. Přechod PN v propustném a závěrném směru; pásové diagramy. Ampérvoltová charakteristika přechodu PN. Průrazy přechodu PN. Tunelová dioda. Jiné typy přechodů; přechod kov-polovodič.
+2. Polovodičová dioda. Ampérvoltová charakteristika diody. Dioda v propustném a závěrném směru. Dioda jako usměrňovač, zdroj referenčního napětí, spínač a řízený odpor.
+3. Polovodičová dioda. Varikap, varaktor. Schottkyho dioda. Fotodioda. Struktura PIN - fotodioda PIN, výkonová dioda PIN. Technologie výroby diod. Typická zapojení obvodů s diodami.
+4. Bipolární tranzistor. Struktura bipolárního tranzistoru, princip činnosti. Ampérvoltové charakteristiky tranzistoru v zapojení se společným emitorem (SE). Normální a inverzní režim BT. Saturační a závěrný režim bipolárního tranzistoru.
+5. Bipolární tranzistor. První a druhý průraz tranzistorové struktury. Charakteristické závislosti parametrů tranzistorů na pracovních podmínkách. Nelineární modely bipolárního tranzistoru. Lineární modely bipolárního tranzistoru; h-parametry; y-parametry.
+6. Bipolární transistor. Základní obvody s tranzistory. Nastavení pracovního bodu. Princip tranzistorového zesilovače; zapojení SE, SB, SC; proudové a napěťové zesílení ; vstupní a výstupní odpor. Tranzistor jako spínač.
+7. Unipolární tranzistory. JFET, MESFET, MOSFET - struktura, princip činnosti. Lineární (aktivní) režim a saturační režim. Ampérvoltové charakteristiky. Unipolární tranzistor jako proudový zdroj, zesilovač, spínač a řízený odpor. Linearizované modely FET.
+8. Unipolární tranzistory. Výkonové tranzistory FET; struktury DMOS, VDMOS a VMOS. Paralelní integrace tranzistorů FET. Tranzistor IGBT - struktura, princip činnosti, náhradní obvod. Struktury CCD.
+9. Spínací prvky. Tyristor - základní struktura, princip činnosti, náhradní schéma. Tyristor v závěrném, blokovacím a propustném stavu, ampérvoltové charakteristiky tyristoru. Speciální druhy tyristorů, jejich použití. Triak; struktura a princip činnosti. Diak.
+10. Optoelektronické prvky. Fotometrické a radiometrické veličiny. Fotoodpor. Fototranzistor. Fotodioda. Luminiscenční dioda. Laserová dioda.

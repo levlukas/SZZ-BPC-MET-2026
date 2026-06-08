@@ -1,0 +1,13 @@
+---
+title: _otazky
+updated: 2026-06-06 10:06:09Z
+created: 2026-05-26 11:19:14Z
+---
+
+- [x] 1\. Popište podrobně jednotlivé kroky pro návrh obvodů FPGA a CPLD v návrhovém prostředí Xilinx ISE Design Suite. Ruční návrh a textových návrh digitálních integrovaných obvodů. Popište výhody a nevýhody.
+- [x] 2\. Z jakých častí se skládá základní struktura modelu popsaného pomocí jazyka VHDL a tyto části podrobně popište.
+- [x] 3\. Základní logická hradla – invertor, NAND, NOR, XOR a další. Uveďte schéma, pravdivostní tabulku, logickou funkci a popište vlastnosti struktury. Princip sestavování obvodů logických funkcí pomocí sério-paralelních spojení MOS tranzistorů.
+- [x] 4\. Kombinační logické obvody. Popis kombinačních logických obvodů v jazyce VHDL. Dekodér, enkodér, multiplexor, číslicový komparátor a další. Minimalizace logické funkce.
+- [x] 5\. Sekvenční logické obvody. Popište základní klopné obvody RS, JK, D, T. Popište asynchronní a synchronní čítače, posuvné registry a další. Podrobně popište využití procesů v jazyce VHDL.
+- [x] 6\. Sekvenční logické obvody. Popište dobu předstihu a dobu přesahu na klopném obvodu D. Co je to metastabilita? Kde se metastabilita může vyskytnout? Jak je možné zabránit projevům metastability?
+- [x] 7\. Popište metodiku návrhu sekvenčních obvodů pomocí stavových automatů. Jaké typy stavových automatů existují. Enkódování stavových automatů. Výhody a nevýhody jednotlivých typů enkódování. Ošetření nevyužitých stavů při návrhu stavových automatů.
