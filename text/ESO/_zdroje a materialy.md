@@ -8,4 +8,4 @@ altitude: 0.0000
 ---
 
 **Zpracovane otazky:**
-- (1) zdroj1 <text style="color:cornflowerblue">Onedrive/2_zimni/ESO/text/BESO_-_zpracování_otázek_ke_státnicím.pdf</text>
+- (1) zdroj 1: [OneDrive](https://vutbr-my.sharepoint.com/:b:/g/personal/256660_vutbr_cz/IQCT5nefOf2pQIrG225IFxtjAaOWExHu0gBKEqEI1LY4S10?e=hox4y2)

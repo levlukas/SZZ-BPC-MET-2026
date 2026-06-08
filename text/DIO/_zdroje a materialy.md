@@ -4,10 +4,10 @@ updated: 2026-06-06 08:18:40Z
 created: 2026-05-26 11:31:40Z
 ---
 
-Zpracovane otazky **(Z)**: <text style="color:cornflowerblue">"Onedrive/4_letni/DIO/BDIO - zpracování otázek ke státnicím.doc"</text>
+Zpracovane otazky **(Z)**: [OneDrive](https://vutbr-my.sharepoint.com/:w:/g/personal/256660_vutbr_cz/IQCdWmYPaag4TIl4bllpLHd9AeyS2aiExwBthOVs8X3sd_s?e=3VeLtm)
 
-DIO zkouska **(DIOz)**: [Zkouska](:/2313f5d5565e40f293057f7a896d6116)
+DIO zkouska **(DIOz)**: *neni soucasti repozitare*
 
-DIO prezentace **(p)**: <text style="color:cornflowerblue">"Onedrive/4_letni/DIO/p/"</text>
+DIO prezentace **(p)**: *neni soucasti repozitare, dostupne na elearningu*
 
-NDI AAU projekt **(NDIp)**: <text style="color:cornflowerblue">"Onedrive/5_zimni\NDI\project\report\win_only\AAU_RP_0001_Draft1_závěrečná zpráva AAU_llev.pdf"</text>
+NDI AAU projekt **(NDIp)**: [OneDrive](https://vutbr-my.sharepoint.com/:b:/g/personal/256660_vutbr_cz/IQAW_Wuvkdv2QaHS5ooryfqOAThqm-dkpOX5eUrtqMlSbiY?e=hGxcem)
