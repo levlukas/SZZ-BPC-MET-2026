@@ -12,7 +12,7 @@ altitude: 0.0000
 - rok: 2026
 
 ## Podekovani
-Rpo vzniklo na zaklade podnetu od [kamarada z TLI](https://github.com/EmanuelAntol), ktery zpracoval otazky pro svuj obor v repozitari [zde](https://github.com/EmanuelAntol/SZZ-BPC-TLI-2026). Obdobne byly zpracovany [otazky pro EKT](https://github.com/Stredoslovak/SZZ-BPC-EKT-2026) dalsimi kolegy. Na tyto dva projekty repo volne navazuje.
+Repo vzniklo na zaklade podnetu od [kamarada z TLI](https://github.com/EmanuelAntol), ktery zpracoval otazky pro svuj obor v repozitari [zde](https://github.com/EmanuelAntol/SZZ-BPC-TLI-2026). Obdobne byly zpracovany [otazky pro EKT](https://github.com/Stredoslovak/SZZ-BPC-EKT-2026) dalsimi kolegy. Na tyto dva projekty repo volne navazuje.
 
 
 ## Otazky a obory
