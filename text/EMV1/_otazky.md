@@ -1,12 +1,3 @@
----
-title: _otazky
-updated: 2026-05-24 12:38:20Z
-created: 2026-04-19 08:43:51Z
-latitude: 49.20128120
-longitude: 16.88215220
-altitude: 0.0000
----
-
 1. Dielektrika a Izolanty. Chování dielektrika v elektrickém poli. Polarizace a permitivita. Komplexní permitivita. Elektrická vodivost a konduktivita dielektrických materiálů. Dielektrické ztráty a ztrátový činitel. Dielektrika v silných elektrických polích.
 2. Anorganická dielektrika. Azbest, slída a slídové výrobky, upravená slída. Sklo v elektrotechnice. Vnitřní uspořádání. Pravidla tvorby skel. Elektrické vlastnosti skel. Druhy skel. Výroba a zpracování skla. Speciální skla.
 3. Elektrotechnická keramika. Silikátová keramika. Výroba a zpracování keramiky. Oxidová a bezkyslíkatá keramika.

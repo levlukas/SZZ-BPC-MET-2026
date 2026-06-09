@@ -1,9 +1,3 @@
----
-title: _otazky
-updated: 2026-06-06 19:19:40Z
-created: 2026-05-26 12:33:46Z
----
-
 1. Postup při návrhu digitálních integrovaných obvodů. Stručně popište jednotlivé fáze návrhu od počáteční specifikace až po testování v cílovém obvodu.
 2. Simulace digitálních integrovaných obvodů. Popište, jak funguje simulátor digitálních obvodů a jakým způsobem jsou simulovány souběžné příkazy. Objasněte koncept delta cyklů v jazyce VHDL.
 3. Verifikace digitálních obvodů. Nakreslete strukturu jednoduchého verifikačního prostředí. Jaké jsou metody generování testovacích dat? Kdy je možné ukončit verifikaci? Popište pokrytí kódu a funkční pokrytí.

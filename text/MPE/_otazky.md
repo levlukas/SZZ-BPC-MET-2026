@@ -1,12 +1,3 @@
----
-title: _otazky
-updated: 2026-05-26 11:16:43Z
-created: 2026-05-24 16:10:05Z
-latitude: 49.19506020
-longitude: 16.60683710
-altitude: 0.0000
----
-
 1. Atomová stavba. Základní chemické vazby atomů. Látky krystalické, amorfní a reálně nekrystalické. Defekty v krystalických soustavách.
 2. Klasifikace vodivých materiálů pro elektrotechniku a elektroniku podle složení, struktury a vlastností. Elektrická vodivost materiálů. Základní vztahy. Vodivé materiály. Základní vlastnosti vybraných materiálů. Příklady materiálů pro kabelové vodiče, odpory, termočlánky a kontakty. Odporové materiály, požadavky na tyto materiály.
 3. Klasifikace polovodičových materiálů pro elektrotechniku a elektroniku podle složení, struktury a vlastností. Redukovaný vodivostní pásový model pevných látek. Konduktivita vlastního polovodiče. Polovodičové materiály. Elementární a sloučeninové polovodiče. Termodynamická rovnováha v vlastních polovodičích.

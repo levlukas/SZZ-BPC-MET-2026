@@ -1,11 +1,3 @@
----
-title: _zdroje a materialy
-updated: 2026-06-06 10:25:18Z
-created: 2026-06-06 10:10:39Z
-latitude: 49.23756210
-longitude: 16.52722450
-altitude: 0.0000
----
 Prezentace zahrnute nize jsou dostupne na elearningu
 
 1. Postup při návrhu digitálních integrovaných obvodů. Stručně popište jednotlivé fáze návrhu od počáteční specifikace až po testování v cílovém obvodu.

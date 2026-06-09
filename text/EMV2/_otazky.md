@@ -1,9 +1,3 @@
----
-title: _otazky
-updated: 2026-06-07 15:56:55Z
-created: 2026-05-26 12:37:16Z
----
-
 1. Povrchové úpravy: hlavní principy tvorby ochranných vrstev, výběr technologií, výrobní zařízení, materiály. Korozní odolnosti. Testování kvality
 2. Tenké vrstvy: základní dělení, teoretický rozbor tvorby vrstev, výběr substrátů, speciální technologie. Využití tenkých vrstev.
 3. Montážní technologie: základní systémy montážních procesů, propojovací technologie elektrických a elektronických zařízení, testovací metody. Antistatické zabezpečení.

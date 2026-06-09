@@ -1,9 +1,3 @@
----
-title: _otazky
-updated: 2026-06-06 10:06:09Z
-created: 2026-05-26 11:19:14Z
----
-
 1. Popište podrobně jednotlivé kroky pro návrh obvodů FPGA a CPLD v návrhovém prostředí Xilinx ISE Design Suite. Ruční návrh a textových návrh digitálních integrovaných obvodů. Popište výhody a nevýhody.
 2. Z jakých častí se skládá základní struktura modelu popsaného pomocí jazyka VHDL a tyto části podrobně popište.
 3. Základní logická hradla – invertor, NAND, NOR, XOR a další. Uveďte schéma, pravdivostní tabulku, logickou funkci a popište vlastnosti struktury. Princip sestavování obvodů logických funkcí pomocí sério-paralelních spojení MOS tranzistorů.

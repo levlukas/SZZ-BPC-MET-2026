@@ -1,12 +1,3 @@
----
-title: _readme
-updated: 2026-06-07 15:57:18Z
-created: 2026-04-18 07:49:51Z
-latitude: 49.20128120
-longitude: 16.88215220
-altitude: 0.0000
----
-
 # Vypracované otázky ke státní závěrečné zkoušce
 - obor: BPC-MET
 - rok: 2026

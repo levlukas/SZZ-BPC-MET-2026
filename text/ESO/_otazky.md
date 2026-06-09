@@ -1,12 +1,3 @@
----
-title: _otazky
-updated: 2026-05-24 11:29:43Z
-created: 2026-05-19 06:47:30Z
-latitude: 49.19506020
-longitude: 16.60683710
-altitude: 0.0000
----
-
 1. Přechod PN. Přechod PN v rovnovážném stavu, vyprázdněná oblast, difúzní napětí. Bariérová a difúzní kapacita přechodu PN. Přechod PN v propustném a závěrném směru; pásové diagramy. Ampérvoltová charakteristika přechodu PN. Průrazy přechodu PN. Tunelová dioda. Jiné typy přechodů; přechod kov-polovodič.
 2. Polovodičová dioda. Ampérvoltová charakteristika diody. Dioda v propustném a závěrném směru. Dioda jako usměrňovač, zdroj referenčního napětí, spínač a řízený odpor.
 3. Polovodičová dioda. Varikap, varaktor. Schottkyho dioda. Fotodioda. Struktura PIN - fotodioda PIN, výkonová dioda PIN. Technologie výroby diod. Typická zapojení obvodů s diodami.

@@ -1,12 +1,3 @@
----
-title: _otazky
-updated: 2026-06-08 19:28:16Z
-created: 2026-04-18 07:59:17Z
-latitude: 49.20128120
-longitude: 16.88215220
-altitude: 0.0000
----
-
 1. Zpětná vazba - druhy, Blackův vztah, vliv zpětné vazby na parametry zesilovačů.
 2. Operační zesilovač VFA - vlastnosti, základní zapojení jako lineární zesilovač.
 3. Aktivní prvky typu CFA, OTA, TIA, CCII, diamantový tranzistor - princip, vlastnosti, použití.

@@ -1,12 +1,3 @@
----
-title: _otazky
-updated: 2026-05-28 11:51:42Z
-created: 2026-05-24 19:00:27Z
-latitude: 49.19506020
-longitude: 16.60683710
-altitude: 0.0000
----
-
 1. Mikroskopie atomárních sil. Princip funkce AFM, základní metody pozorování vzorků, požadavky na vzorky.
 2. Metody optické mikroskopie. Způsoby pozorování ve světlém a tmavém poli
 3. Metody optické mikroskopie. Charakteristické hodnoty mikroskopu a jejich popis.

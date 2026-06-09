@@ -1,9 +1,3 @@
----
-title: _zdroje a materialy
-updated: 2026-05-26 10:54:25Z
-created: 2026-05-26 07:21:50Z
----
-
 1. **(Skripta BMTD/MPE)(S):** [OneDrive](https://vutbr-my.sharepoint.com/:b:/g/personal/256660_vutbr_cz/IQD9mczg2Yj8TZkzGRUnsad4AWN9WzYQ04eUmBeoxB6U81U?e=WXTgCZ)
 
 2. dalsi zpracovane otazky pro SZZ
