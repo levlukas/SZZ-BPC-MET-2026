@@ -21,12 +21,12 @@ Repo vzniklo na zaklade podnetu od [kamarada z TLI](https://github.com/EmanuelAn
 - [ ] UIP  
 
 ### Zaklady mikroelektroniky a technologie
-#### Skupina I
+#### Elektronické součástky, analogové a digitální obvody
 - [x] AEY
 - [x] DIO
 - [x] ESO
 
-#### Skupina II
+#### Elektrotechnické materiály a výrobní procesy
 - [x] EMV1
 - [x] EMV2
 - [x] MPE
